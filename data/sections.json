@@ -9,7 +9,7 @@
             "locales": {
                 "en": {
                     "title": "Hendra *Maulana*",
-                    "title_short": "Welcome!",
+                    "title_short": "Hendra *Maulana*",
                     "description": null,
                     "nav_label": "About"
                 }
@@ -90,7 +90,7 @@
             "locales": {
                 "en": {
                     "title": "*Portfolio*",
-                    "title_short": "artwork",
+                    "title_short": "Portfolio",
                     "description": "Portfolio showcasing my work and projects.",
                     "nav_label": "Portfolio"
                 }
