@@ -1,0 +1,183 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "component": "ArticleSkills",
+        "locales": {
+          "en": { "title": "ERP Systems" }
+        },
+        "settings": {
+          "order_items_by": "percentage",
+          "order_items_sort": "desc",
+          "max_items_per_line": 2,
+          "transparent_item_icon_background": true,
+          "small_icons": false,
+          "chart": null
+        },
+        "items": [
+          {
+            "id": 1,
+            "img": "images/places/logo-sapb1.png",
+            "fallbackFaIcon": "fa-solid fa-network-wired",
+            "locales": {
+              "en": {
+                "title": "SAP B1",
+                "description": "Experienced in SAP Business One modules including inventory, purchasing, and reporting."
+              }
+            }
+          }
+        ]
+      },
+  
+      {
+        "id": 2,
+        "component": "ArticleSkills",
+        "locales": {
+          "en": { "title": "Frontend Stack" }
+        },
+        "settings": {
+          "order_items_by": "percentage",
+          "order_items_sort": "desc",
+          "max_items_per_line": 2,
+          "transparent_item_icon_background": true,
+          "small_icons": false,
+          "chart": null
+        },
+        "items": [
+          {
+            "id": 1,
+            "img": "images/places/logo-html5.png",
+            "fallbackFaIcon": "fa-brands fa-html5",
+            "locales": {
+              "en": {
+                "title": "HTML 5",
+                "description": "Experienced with HTML5 elements and features."
+              }
+            }
+          },
+          {
+            "id": 2,
+            "img": "images/places/logo-css.png",
+            "fallbackFaIcon": "fa-brands fa-css3-alt",
+            "locales": {
+              "en": {
+                "title": "CSS 3",
+                "description": "Experienced with CSS elements and features."
+              }
+            }
+          },
+          {
+            "id": 3,
+            "img": "images/places/logo-js.png",
+            "fallbackFaIcon": "fa-brands fa-js-square",
+            "locales": {
+              "en": {
+                "title": "Javascript",
+                "description": "Experienced with CSS elements and features."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "component": "ArticleSkills",
+        "locales": {
+          "en": { "title": "BackEnd Stack" }
+        },
+        "settings": {
+          "order_items_by": "percentage",
+          "order_items_sort": "desc",
+          "max_items_per_line": 2,
+          "transparent_item_icon_background": true,
+          "small_icons": false,
+          "chart": null
+        },
+        "items": [
+          {
+            "id": 1,
+            "img": "images/places/logo-php.png",
+            "fallbackFaIcon": "fa-brands fa-html5",
+            "locales": {
+              "en": {
+                "title": "PHP",
+                "description": "Experienced with PHP."
+              }
+            }
+          },
+          {
+            "id": 2,
+            "img": "images/places/logo-aspcore.png",
+            "fallbackFaIcon": "fa-brands fa-css3-alt",
+            "locales": {
+              "en": {
+                "title": "ASP.NET",
+                "description": "Experienced with ASP.NET."
+              }
+            }
+          },
+          {
+            "id": 3,
+            "img": "images/places/logo-csharp.png",
+            "fallbackFaIcon": "fa-brands fa-js-square",
+            "locales": {
+              "en": {
+                "title": "C#",
+                "description": "Experienced with C#."
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "component": "ArticleSkills",
+        "locales": {
+          "en": { "title": "DataBase" }
+        },
+        "settings": {
+          "order_items_by": "percentage",
+          "order_items_sort": "desc",
+          "max_items_per_line": 2,
+          "transparent_item_icon_background": true,
+          "small_icons": false,
+          "chart": null
+        },
+        "items": [
+          {
+            "id": 1,
+            "img": "images/places/logo-sql.png",
+            "fallbackFaIcon": "fa-brands fa-html5",
+            "locales": {
+              "en": {
+                "title": "SQL Server",
+                "description": "Experienced with SQL Server."
+              }
+            }
+          },
+          {
+            "id": 2,
+            "img": "images/places/logo-mysql.png",
+            "fallbackFaIcon": "fa-brands fa-css3-alt",
+            "locales": {
+              "en": {
+                "title": "MySQL",
+                "description": "Experienced with MySQL."
+              }
+            }
+          },
+          {
+            "id": 3,
+            "img": "images/places/logo-hanadb.png",
+            "fallbackFaIcon": "fa-brands fa-js-square",
+            "locales": {
+              "en": {
+                "title": "HANA DB",
+                "description": "Experienced with HANA Database."
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }

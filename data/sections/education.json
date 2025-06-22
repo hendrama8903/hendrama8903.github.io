@@ -1,0 +1,87 @@
+{
+    "articles": [
+        {
+            "component": "ArticleTimeline",
+            "id": 1,
+            "items": [
+                {
+                    "dateEnd": {
+                        "month": 6,
+                        "year": 2007
+                    },
+                    "dateStart": {
+                        "month": 5,
+                        "year": 2004
+                    },
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "id": 1,
+                    "img": "images/places/logo-sman1.png",
+                    "locales": {
+                        "en": {
+                            "country": "Indonesia",
+                            "description": "Studied natural sciences with an emphasis on mathematics, physics, and computer basics. Developed early interest in technology and logical reasoning.",
+                            "institution": "SMA Negeri 1 Cikampek",
+                            "province": "Cikampek",
+                            "tags": [],
+                            "title": "Senior High School in Natural Sciences"
+                        }
+                    }
+                },
+                {
+                    "dateEnd": {
+                        "month": 11,
+                        "year": 2010
+                    },
+                    "dateStart": {
+                        "month": 6,
+                        "year": 2007
+                    },
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#140f29",
+                    "id": 2,
+                    "img": "images/places/logo-ipb.png",
+                    "locales": {
+                        "en": {
+                            "country": "Indonesia",
+                            "description": "Completed a diploma program in Computer Engineering, focusing on hardware-software integration, microcontroller systems, and basic programming. Built foundational knowledge in embedded systems, networks, and system maintenance.",
+                            "institution": "Institut Pertanian Bogor",
+                            "province": "Bogor",
+                            "tags": [],
+                            "title": "Diploma in Computer Engineering"
+                        }
+                    }
+                },
+                {
+                    "dateEnd": {
+                        "month": 5,
+                        "year": 2028
+                    },
+                    "dateStart": {
+                        "month": 4,
+                        "year": 2025
+                    },
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "id": 3,
+                    "img": "images/places/logo-ut.png",
+                    "locales": {
+                        "en": {
+                            "country": "Indonesia",
+                            "description": "Currently pursuing a degree in Information Systems with a focus on data management, system analysis, and software development. This program enhances my practical and theoretical knowledge in managing information technology solutions across organizations.",
+                            "institution": "Universitas Terbuka",
+                            "province": "Jakarta",
+                            "tags": [],
+                            "title": "Bachelor's in Information Systems"
+                        }
+                    }
+                }
+            ],
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            }
+        }
+    ]
+}

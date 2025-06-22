@@ -1,0 +1,100 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Hendra *Maulana*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                }
+            }
+        },
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                }
+            }
+        },
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                }
+            }
+        },
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Education* Background",
+                    "title_short": null,
+                    "description": "Highlights from my academic background.",
+                    "nav_label": "Education"
+                }
+                
+            }
+        },
+
+       
+
+        
+
+        {
+            "id": "achievements",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/achievements.json",
+            "faIcon": "fa-solid fa-award",
+            "type": "row",
+            "locales": {
+                "en": {
+                    "title": "*Achievements*",
+                    "title_short": null,
+                    "description": "My journey as an IT professional has been marked by a strong commitment to continuous learning and technical growth, along with active involvement in various technology-related initiatives:",
+                    "nav_label": "Achievements"
+                }
+            }
+        },
+        {
+            "id": "portfolio",
+            "categoryId": "more",
+            "jsonPath": "/sections/portfolio.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Portfolio*",
+                    "title_short": "artwork",
+                    "description": "Portfolio showcasing my work and projects.",
+                    "nav_label": "Portfolio"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "Hendra Maulana",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
+
+    "locales": {
+        
+        "en": {
+            "credits": " ",
+            "role": "IT Professional"
+        }
+        
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Cikampek, West Java, Indonesia",
+                    "valueShort": "Cikampek, West Java"        
+                }
+            }
+        },
+
+        {
+            "id": "email",
+            "value": "hendra maulana",
+            "valueShort": "hendra maulana",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:hendra.h5n1@gmail.com"
+        },
+
+        {
+            "id": "github",
+            "value": "@hendrama8903",
+            "valueShort": "@hendrama8903",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/hendrama8903"
+        },
+
+        {
+            "id": "instagram",
+            "value": "@ndra_maul",
+            "valueShort": "@ndra_maul",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "@hendra-m",
+            "valueShort": "@hendra-m",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/hendra-m/"
+        },
+
+        {
+            "id": "phone",
+            "value": "+1 (123) 456-7890",
+            "valueShort": "(123) 456-7890",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:1234567890"
+        }
+    ]
+}

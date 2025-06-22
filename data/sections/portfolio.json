@@ -1,0 +1,76 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": null,
+                    "category_all": "All",
+                    "category_productivity": "Productivity",
+                    "category_social": "Social",
+                    "category_utilities": "Utilities"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/portfolio/logo-qrsystem.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "QR Battery System",
+                            "description": "QR Battery System adalah sebuah aplikasi yang dirancang untuk meregistrasi dan memonitor penggunaan aki (battery) kendaraan berdasarkan nomor QR unik dari setiap unit aki. Sistem ini menghubungkan data aki dari berbagai vendor dengan VIN (Vehicle Identification Number) kendaraan secara terstruktur dan digital."
+                           
+                        }
+                    },
+                    "links": [
+                       
+                    ]
+                },
+
+                {
+                    "id": 2,
+                    "img": "images/portfolio/logo-dn.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "DN Services Part Mapper",
+                            "description": "Sistem ini membantu menyamakan penamaan vendor code dan item code dari data delivery note yang berasal dari customer dengan master data internal yang digunakan di sistem SAP. Proses penyamaan dilakukan secara otomatis, termasuk pencocokan nama, kode, dan struktur data.Setelah proses mapping selesai, sistem menyediakan fitur ekspor data ke dalam format file yang sesuai agar dapat langsung diimpor ke SAP, sehingga mengurangi kesalahan input manual dan mempercepat proses integrasi data antar sistem."
+                           
+                        }
+                    },
+                    "links": [
+                       
+                    ]
+                },
+
+                {
+                    "id": 3,
+                    "img": "images/portfolio/logo-saptools.png",
+                    "fallbackFaIcon": "fa-solid fa-crow",
+                    "fallbackFaIconColor": "#7c4d91",
+                    "category": "utilities",
+                    "locales": {
+                        "en": {
+                            "title": "SAP Tools",
+                            "description": "SAP Tools adalah sebuah tools pelaporan yang dirancang untuk mempermudah pengguna dalam mengakses dan memantau data penting dari sistem SAP tanpa perlu membuka SAP secara langsung. Tools ini menyajikan laporan-laporan penting yang berkaitan dengan proses pengadaan barang dan jasa, serta master data yang dibutuhkan dalam operasional sehari-hari."
+                            
+                        }
+                    },
+                    "links": [
+                       
+                    ]
+                }
+            ]
+        }
+    ]
+}

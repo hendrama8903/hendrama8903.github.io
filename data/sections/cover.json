@@ -1,0 +1,37 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email"],
+                "contact_circles_ids": ["instagram","linkedin", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "Experienced IT professional in the food and automotive manufacturing industries, with strong expertise in ERP systems (SAP B1 & Oracle), programming, database management, and business process analysis."
+                        }
+
+                        
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I believe that good systems should empower people — making work processes simpler, faster, and more reliable. Let’s work together to turn challenges into solutions and create real impact through technology."
+                        }
+                        
+                    }
+                }
+            ]
+        }
+    ]
+}

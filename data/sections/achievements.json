@@ -1,0 +1,111 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Training"}
+               
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2025, "month": 5},
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bangun REST API Pertama dengan Node.js",
+                            "description": "Learn to build your first REST API using Node.js; focus on server-side programming and API design.",
+                            "institution": "Nusacode"
+                        }
+                    },
+                    "links": [
+                    ]
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2025, "month": 4},
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Programming ASP.NET Core",
+                            "description": "Learn the fundamentals of ASP.NET Core programming; focus on building web applications with C#.",
+                            "institution": "IDS Indonesia"
+                        }
+                    },
+                    "links": []
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2024, "month": 11},
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Membangun Data Dashboard dengan Power BI",
+                            "description": "Mendesain dan mengembangkan dashboard interaktif menggunakan Power BI untuk menyajikan data bisnis secara visual dan informatif.",
+                            "institution": "Taalenta"
+                        }
+                    },
+                    "links": []
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2024, "month": 9},
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bootcamp Flutter Mobile Development",
+                            "description": "Intensive bootcamp on Flutter mobile development; focus on building cross-platform applications with Dart.",
+                            "institution": "Nusacode"
+                        }
+                    },
+                    "links": []
+                }
+
+                
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Certifications"}
+              
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                  
+                    "dateStart": {"year": 2025, "month": 5},
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bootcamp Flutter Mobile Development",
+                            "description": "Certified by Nusacode; Final Project Completion.",
+                            "institution": "Nusacode"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://nusacodes.com/verify/WE1904HJ25Q4", "stringKey": "view_certification"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

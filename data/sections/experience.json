@@ -1,0 +1,81 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2011, "month": 11},
+                    "dateEnd": {"year": 2014, "month": 11},
+                    "img": "images/places/logo-kalbemorinaga.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "IT Support Staff",
+                            "description": "Provided daily IT support for Oracle E-Business Suite across inventory, purchasing, and production modules. Handled technical troubleshooting, user support, and data validation to ensure smooth ERP operations in the manufacturing environment.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Provided day-to-day support for Oracle E-Business Suite, including troubleshooting issues in inventory, purchasing, and production modules.",
+                                    "Assisted end-users in transaction input, error checking, and system navigation to ensure smooth ERP operations.",
+                                    "Coordinated with regional IT teams and third-party vendors for ERP enhancements and technical issue resolution.",
+                                    "Performed data extraction and reporting for operational monitoring and decision-making support.",
+                                    "Maintained IT infrastructure within the manufacturing site, including hardware (PCs, printers, scanners) and network troubleshooting.",
+                                    "Supported internal IT audits by documenting workflows, access controls, and compliance reports.",
+                                    "Conducted basic training and user orientation for new system features or updates."
+                                ]
+                            },
+                            "province": "Karawang",
+                            "country": "Indonesia",
+                            "institution": "PT. Kalbe Morinaga Indonesia"
+                            
+                        }
+
+                        
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": { "year": 2014, "month": 11 },
+                    "dateEnd": { "year": 2099 ,"month": 11 },
+                    "img": "images/places/logo-hino.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "IT Senior Staff",
+                            "description": "Responsible for developing, implementing, and maintaining IT systems to support manufacturing business processes. Acted as a bridge between operational needs and technological solutions, focusing on ERP systems, process automation, and cross-departmental data integration.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Managed and provided technical support for SAP Business One ERP, covering purchasing, production, warehouse, and finance modules.",
+                                    "Designed and developed internal applications using C#, JavaScript, and SQL to automate workflows and reporting.",
+                                    "Created and maintained analytical dashboards using Power BI for management and operational decision-making.",
+                                    "Analyzed user requirements, designed process flows, and conducted system testing and deployment.",
+                                    "Integrated data between systems, including ODBC connections, Crystal Reports, and SAP HANA database queries."
+                                ]
+                            },
+                            "province": "Purwakarta",
+                            "country": "Indonesia",
+                            "institution": "PT. Hino Motors Manufacturing Indonesia"
+                            
+                        }
+
+                        
+                    }
+                }
+
+               
+            ]
+        }
+    ]
+}
